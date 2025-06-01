@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Projects based on Reinforcement Learning
+- 🔭 I’m currently working on Multiple Projects based on AI and Web Development.
 - 🌱 Pursuing B.Tech in Artificial Intelligence and Data Engineering from [IIT Ropar](iitrpr.ac.in)
 
 
